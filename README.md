@@ -1,2 +1,5 @@
-# image_calssification
-image recognation with Deep learning and GUI
+This project is image recognation among animals photo such as frog,bird,horse,dog,automobile,cat,truck,ship,airplane,deer.
+we use technolegy such as:
+python
+QT
+Deep learning algoritms
