@@ -3,4 +3,5 @@ we use technolegy such as:
 python,
 QT,
 Deep learning algoritms
+<br>
 <img src="image.JPG" > 
