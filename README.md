@@ -3,4 +3,4 @@ we use technolegy such as:
 python,
 QT,
 Deep learning algoritms
-<img src="image.jpg" > 
+<img src="image.JPG" > 
