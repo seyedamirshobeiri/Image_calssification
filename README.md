@@ -3,4 +3,4 @@ we use technolegy such as:
 python,
 QT,
 Deep learning algoritms
-<img src="Datasets/non_fire_images/image.jpg" > 
+<img src="image.jpg" > 
